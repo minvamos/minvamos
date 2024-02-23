@@ -1,27 +1,25 @@
 # Seong Minsik
-
-I am continuously learning new technologies and enhancing my skills through participation in various projects.
-
-My areas of interest include neural networks, image processing, digital signal processing, and microprocessors.
-
+Senior in undergraduate.
 ## 🎓 Education
-- **Seoul National University of Science and Technology**
+- **Seoul National University of Science and Technology / Republic of Korea**
   - Major: Department of Electrical and Information Engineering
   - Minor: IT Convergence Software
   - Duration: 2018 ~ 2025
 
-- **Gifu University, Japan**
+- **Gifu University / Japan (exchange student)**
   - Major: Electrical and Information Engineering - Information Course
   - Duration: 2023 ~ 2024
-  - Activities: Participated as an undergraduate researcher at Kato Laboratory, involved in various projects
+  - Activities: Participated as an undergraduate researcher at Kato Laboratory
 
-## 🧳 Research Interest
+## 🧳 Research Interests
 - **Computer Vision**
+- **Image Processing**
 - **Machine Learning**
 - **Neural Networks**
 - **Digital Signal Processing**
 - **Autonomous Driving**
-- 
+
+
 ## 💻 Tech Stack
 - **Languages:** Python, C, C++
 - **Frameworks and Libraries:** PyTorch, TensorFlow, TensorRT, ROS
@@ -36,7 +34,7 @@ My areas of interest include neural networks, image processing, digital signal p
 
 ## 📫 Contact
 - **Email:** zzmsz0317@gmail.com
-
+- **Languages for Communication:** Native in Korean, fluent in Japanese and English.
 ---
 
 Thank you!
