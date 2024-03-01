@@ -1,6 +1,8 @@
 # Seong Minsik
 Senior in undergraduate.
 ## 🎓 Education
+<img src="https://github.com/minvamos/minvamos/assets/122091776/cb3291ff-9ad6-4d38-966a-d63c6261ec5d" height="40">
+
 - **Seoul National University of Science and Technology / Republic of Korea**
   - Major: Department of Electrical and Information Engineering
   - Minor: IT Convergence Software
@@ -34,7 +36,7 @@ Senior in undergraduate.
 
 
 ## 📫 Contact
-- **Email:** zzmsz0317@gmail.com
+- **Email:** 18101350@g.seoultech.ac.kr
 - **Languages for Communication:** Native in Korean, fluent in Japanese and English.
 ---
 
