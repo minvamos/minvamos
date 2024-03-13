@@ -30,7 +30,7 @@ Senior in undergraduate.
 ## ✅ Certification
 - [**NVIDIA Jetson AI Specialist**](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
 - [**JLPT N2**](https://www.jlpt.jp/e/about/levelsummary.html)
-- [**Accreditation Board for Engineering Education of Korea(scheduled)**](http://www.abeek.or.kr/#;)
+
 ## 📈 GitHub Statistics
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=minvamos&show_icons=true&theme=radical)
 
