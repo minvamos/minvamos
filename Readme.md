@@ -18,12 +18,11 @@ Senior in undergraduate.
 - **Image Processing**
 - **Machine Learning**
 - **Neural Networks**
-- **Digital Signal Processing**
 - **Autonomous Driving**
 
 
 ## 💻 Tech Stack
-- **Languages:** Python, C, C++
+- **Languages:** Python, C, C++, Swift
 - **Frameworks and Libraries:** PyTorch, TensorFlow, TensorRT, ROS
 - **Tools:** Docker, CMake, Git
 
