@@ -8,6 +8,9 @@ Senior in undergraduate.
   - Minor: IT Convergence Software
   - Duration: 2018 ~ 2025
 
+
+<img src="https://i.imgur.com/JP1Th5I.png" height="40">
+
 - **Gifu University / Japan (exchange student)**
   - Major: Electrical and Information Engineering - Information Course
   - Duration: 2023 ~ 2024
