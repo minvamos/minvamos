@@ -48,6 +48,12 @@ Senior in undergraduate.
   - Computer Vision
 
     <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+
+  - Data Science
+  
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplot&logoColor=white">
   - Robotics
   
     <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"> 
