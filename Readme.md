@@ -15,16 +15,31 @@ Senior in undergraduate.
 
 ## 🧳 Research Interests
 - **Computer Vision**
-- **Image Processing**
+- **Data Engineering**
+- **Data Analyzing**
 - **Machine Learning**
 - **Neural Networks**
 - **Autonomous Driving**
 
 
 ## 💻 Tech Stack
-- **Languages:** Python, C, C++, Swift
-- **Frameworks and Libraries:** PyTorch, TensorFlow, TensorRT, ROS
-- **Tools:** Docker, CMake, Git
+- **Languages:** 
+  - Python
+  - C++
+  - Java
+  - SQL
+  - Swift
+
+- **Frameworks and Libraries:** 
+  - Machine Learning: PyTorch, TensorFlow, Keras
+  - Deep Learning Optimization: TensorRT
+  - Computer Vision: OpenCV
+  - Robotics: ROS
+
+- **Tools:** 
+  - Containerization: Docker
+  - Build Systems: CMake
+  - Version Control: Git
 
 ## ✅ Certification
 - [**NVIDIA Jetson AI Specialist**](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
