@@ -1,5 +1,8 @@
 # Seong Minsik
 Senior in undergraduate.
+
+> ## **If you want to see my projects or learning contents, please refer to my [repositories](https://github.com/minvamos?tab=repositories)!**
+
 ## 🎓 Education
 <img src="https://github.com/minvamos/minvamos/assets/122091776/cb3291ff-9ad6-4d38-966a-d63c6261ec5d" height="40">
 
