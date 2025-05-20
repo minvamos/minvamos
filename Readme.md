@@ -95,7 +95,7 @@ Senior in undergraduate.
 - **Gaming:** Splatoon 3, Tetris
 - **Exercise:** Weight training, Tennis
 ## 📫 Contact
-- **Email:** 18101350@g.seoultech.ac.kr
+- **Email:** minvamos@gmail.com
 - **Languages for Communication:** Native in Korean, fluent in Japanese and English.
 ---
 
